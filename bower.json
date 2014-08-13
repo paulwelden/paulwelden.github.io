@@ -1,0 +1,20 @@
+{
+  "name": "paulwelden.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/paulwelden/paulwelden.github.io",
+  "authors": [
+    "Paul Welden <paul.j.welden@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0+1"
+  }
+}
